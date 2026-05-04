@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Rickard! 👋
 
-<!--
-**rickyspr/rickyspr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at Linköping University with a huge passion for technology, problem-solving, and building things from scratch. I spend my free time tinkering with side projects and exploring the fascinating world of Artificial Intelligence and Machine Learning.
 
-Here are some ideas to get you started:
+### About Me
+- Currently studying **Computer Engineering** at Linköping University.
+- Deeply interested in **AI, Machine Learning**, and data-driven solutions.
+- Always eager to learn new technologies and build fun side projects.
+-  How to reach me: [LinkedIn](https://www.linkedin.com/in/rickard-hjerpe) or [rickardhjerpe.se](https://rickardhjerpe.se)e
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack & Tools
+- **Languages:** Python, Java, C, C++, Assembly, VHDL
+- **Interests:** Machine Learning, AI, AWS
+
+---
+ *Feel free to explore my repositories below!*
